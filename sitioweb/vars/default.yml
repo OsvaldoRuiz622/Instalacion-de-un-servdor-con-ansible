@@ -1,0 +1,8 @@
+---
+mysql_user: "root"
+mysql_user_password: " "
+app_user: "osvaldo"
+http_host: "oruiz.com"
+http_conf: "oruiz.com.conf"
+http_port: "80"
+disable_default: true
